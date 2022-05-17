@@ -1,5 +1,17 @@
-# ML-TimeSeries
-A list of time-series related papers and datasets in ML venues (WSDM, AAAI, ICLR, AISTATS, SDM, WWW, IJCAI, ICML, KDD, UAI, NeurIPS, CIKM, ICDM)
+# time-series-papers
+
+A list of time-series related papers and datasets in AI venues, tracking the following conferences: WSDM, AAAI, ICLR, AISTATS, SDM, WWW, IJCAI, ICML, KDD, UAI, NeurIPS, CIKM, ICDM
+
+- [2022](#2022)
+    - [IJCAI 2022](#ijcai-2022)
+    - [WWW 2022](#www-2022)
+    - [SDM 2022](#sdm-2022)
+    - [AISTATS 2022](#aistats-2022)
+    - [ICLR 2022](#iclr-2022)
+    - [AAAI 2022](#aaai-2022)
+    - [WSDM 2022](#wsdm-2022)
+
+## 2022
 
 ### IJCAI 2022
 
@@ -162,3 +174,19 @@ SPATE-GAN: Improved Generative Modeling of Dynamic Spatio-Temporal Patterns with
 Feature Importance Explanations for Temporal Black-Box Models
 
 MuMu:Cooperative Multitask Learning-based Guided Multimodal Fusion
+
+### WSDM 2022
+
+ESC-GAN: Extending Spatial Coverage of Physical Sensors
+
+ST-GSP: Spatial-Temporal Global Semantic Representation Learning for Urban Flow Prediction
+
+Translating Human Mobility Forecasting through Natural Language Generation
+
+A New Class of Polynomial Activation Functions of Deep Learning for Precipitation Forecasting
+
+CMT-Net: A Mutual Transition Aware Framework for Taxicab Pick-ups and Drop-offs Co-Prediction
+
+Predicting Human Mobility via Graph Convolutional Dual-attentive Networks
+
+RLMob: Deep Reinforcement Learning for Successive Mobility Prediction
