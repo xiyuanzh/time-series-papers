@@ -2,6 +2,10 @@
 
 A list of time-series related papers and datasets in AI venues, tracking the following conferences: WSDM, AAAI, ICLR, AISTATS, SDM, WWW, IJCAI, ICML, KDD, UAI, NeurIPS, CIKM, ICDM
 
+<p align="center">
+<img width="700" src="word-cloud.png" alt="overview" />
+</p>
+
 - [2022](#2022)
     - [IJCAI 2022](#ijcai-2022)
     - [WWW 2022](#www-2022)
