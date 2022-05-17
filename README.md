@@ -47,7 +47,7 @@ Huber Additive Models for Non-stationary Time Series Analysis
 
 Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift
     
-CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting,
+CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting
 
 Guided Network for Irregularly Sampled Multivariate Time Series
 
