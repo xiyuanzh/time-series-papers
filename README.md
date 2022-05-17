@@ -67,9 +67,7 @@ Ib-Gan: A Unified Approach for Multivariate Time Series Classification under Cla
 
 Collaborative Attention Mechanism for Multi-Modal Time Series Classification
 
-Leveraging Dependencies among Learned Temporal Subsequences.
-
-Contextual Bandits for Advertising Campaigns: A Diffusion-Model Independent Approach
+Leveraging Dependencies among Learned Temporal Subsequences
 
 Measuring Disentangled Generative Spatio-Temporal Representation
 
