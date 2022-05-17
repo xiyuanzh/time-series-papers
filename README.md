@@ -1,6 +1,6 @@
 # Time Series AI Papers
 
-A list of time-series related papers and datasets in AI venues, tracking the following conferences: WSDM, AAAI, ICLR, AISTATS, SDM, WWW, IJCAI, ICML, KDD, UAI, NeurIPS, CIKM, ICDM
+A list of up-to-date time-series papers in AI venues, tracking the following conferences: WSDM, AAAI, ICLR, AISTATS, SDM, WWW, IJCAI, ICML, KDD, UAI, NeurIPS, CIKM, ICDM
 
 <p align="center">
 <img width="700" src="word-cloud.png" alt="overview" />
