@@ -1,5 +1,5 @@
 # ML-TimeSeries
-A list of time-series related papers and datasets in ML venues
+A list of time-series related papers and datasets in ML venues (WSDM, AAAI, ICLR, AISTATS, SDM, WWW, IJCAI, ICML, KDD, UAI, NeurIPS, CIKM, ICDM)
 
 ### IJCAI 2022
 
@@ -26,6 +26,56 @@ When Transfer Learning Meets Cross-City Urban Flow Prediction: Spatio-Temporal A
 Physics-Informed Long-Sequence Forecasting From Multi-Resolution Spatiotemporal Data
 
 FOGS: First-Order Gradient Supervision with Learning-based Graph for Traffic Flow Forecasting
+
+### WWW 2022
+
+Knowledge Enhanced GAN for IoT Traffic Generation
+
+Multi-Granularity Residual Learning with Confidence Estimation for Time Series Prediction
+
+CAMul: Calibrated and Accurate Multi-view Time-Series Forecasting
+
+EXIT: Extrapolation and Interpolation-based Neural Controlled Differential Equations for Time-series Classification and Forecasting
+
+### SDM 2022
+
+Error-Bounded Approximate Time Series Joins Using Compact Dictionary Representations of Time Series
+
+Learning Time-Series Shapelets Enhancing Discriminability
+
+Towards Similarity-Aware Time-Series Classification
+
+Joint Time Series Chain: Detecting Unusual Evolving Trend Across Time Series
+
+Ib-Gan: A Unified Approach for Multivariate Time Series Classification under Class Imbalance
+
+Collaborative Attention Mechanism for Multi-Modal Time Series Classification
+
+Leveraging Dependencies among Learned Temporal Subsequences.
+
+Contextual Bandits for Advertising Campaigns: A Diffusion-Model Independent Approach
+
+Measuring Disentangled Generative Spatio-Temporal Representation
+
+### AISTATS 2022
+
+Robust Probabilistic Time Series Forecasting 
+
+Deep Generative model with Hierarchical Latent Factors for Time Series Anomaly Detection
+
+LIMESegment: Meaningful, Realistic Time Series Explanations 
+
+Using time-series privileged information for provably efficient learning of prediction models
+
+Learning Quantile Functions without Quantile Crossing for Distribution-free Time Series Forecasting 
+
+Decoupling Local and Global Representations of Time Series 
+
+Amortised Likelihood-free Inference for Expensive Time-series Simulators with Signatured Ratio Estimation 
+
+Increasing the accuracy and resolution of precipitation forecasts using deep generative models 
+
+Multivariate Quantile Function Forecaster 
 
 ### ICLR 2022
 
@@ -68,56 +118,6 @@ On the benefits of maximum likelihood estimation for Regression and Forecasting
 Back2Future: Leveraging Backfill Dynamics for Improving Real-time Predictions in Future
 
 UniFormer: Unified Transformer for Efficient Spatial-Temporal Representation Learning
-
-### AISTATS 2022
-
-Robust Probabilistic Time Series Forecasting 
-
-Deep Generative model with Hierarchical Latent Factors for Time Series Anomaly Detection
-
-LIMESegment: Meaningful, Realistic Time Series Explanations 
-
-Using time-series privileged information for provably efficient learning of prediction models
-
-Learning Quantile Functions without Quantile Crossing for Distribution-free Time Series Forecasting 
-
-Decoupling Local and Global Representations of Time Series 
-
-Amortised Likelihood-free Inference for Expensive Time-series Simulators with Signatured Ratio Estimation 
-
-Increasing the accuracy and resolution of precipitation forecasts using deep generative models 
-
-Multivariate Quantile Function Forecaster 
-
-### WWW 2022
-
-Knowledge Enhanced GAN for IoT Traffic Generation
-
-Multi-Granularity Residual Learning with Confidence Estimation for Time Series Prediction
-
-CAMul: Calibrated and Accurate Multi-view Time-Series Forecasting
-
-EXIT: Extrapolation and Interpolation-based Neural Controlled Differential Equations for Time-series Classification and Forecasting
-
-### SDM 2022
-
-Error-Bounded Approximate Time Series Joins Using Compact Dictionary Representations of Time Series
-
-Learning Time-Series Shapelets Enhancing Discriminability
-
-Towards Similarity-Aware Time-Series Classification
-
-Joint Time Series Chain: Detecting Unusual Evolving Trend Across Time Series
-
-Ib-Gan: A Unified Approach for Multivariate Time Series Classification under Class Imbalance
-
-Collaborative Attention Mechanism for Multi-Modal Time Series Classification
-
-Leveraging Dependencies among Learned Temporal Subsequences.
-
-Contextual Bandits for Advertising Campaigns: A Diffusion-Model Independent Approach
-
-Measuring Disentangled Generative Spatio-Temporal Representation
 
 ### AAAI 2022
 
