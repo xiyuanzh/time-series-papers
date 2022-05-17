@@ -27,6 +27,68 @@ Physics-Informed Long-Sequence Forecasting From Multi-Resolution Spatiotemporal 
 
 FOGS: First-Order Gradient Supervision with Learning-based Graph for Traffic Flow Forecasting
 
+### ICLR 2022
+
+Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting
+
+Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy
+
+Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series
+
+DEPTS: Deep Expansion Learning for Periodic Time Series Forecasting
+
+TAMP-S2GCNets: Coupling Time-Aware Multipersistence Knowledge Representation with Spatio-Supra Graph Convolutional Networks for Time-Series Forecasting
+
+PSA-GAN: Progressive Self Attention GANs for Synthetic Time Series
+
+Coherence-based Label Propagation over Time Series for Accelerated Active Learning
+
+Huber Additive Models for Non-stationary Time Series Analysis
+
+Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift
+    
+CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting,
+
+Guided Network for Irregularly Sampled Multivariate Time Series
+
+Heteroscedastic Temporal Variational Autoencoder For Irregularly Sampled Time Series
+
+Omni-Scale CNNs: a simple and effective kernel size configuration for time series classification
+
+Filling the G_ap_s: Multivariate Time Series Imputation by Graph Neural Networks
+
+T-WaveNet: A Tree-Structured Wavelet Neural Network for Time Series Signal Analysis
+
+Temporal Alignment Prediction for Supervised Representation Learning and Few-Shot Sequence Classification
+
+Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting
+
+On the benefits of maximum likelihood estimation for Regression and Forecasting
+
+Back2Future: Leveraging Backfill Dynamics for Improving Real-time Predictions in Future
+
+UniFormer: Unified Transformer for Efficient Spatial-Temporal Representation Learning
+
+### AISTATS 2022
+
+Robust Probabilistic Time Series Forecasting 
+
+Deep Generative model with Hierarchical Latent Factors for Time Series Anomaly Detection
+
+LIMESegment: Meaningful, Realistic Time Series Explanations 
+
+Using time-series privileged information for provably efficient learning of prediction models
+
+Learning Quantile Functions without Quantile Crossing for Distribution-free Time Series Forecasting 
+
+Decoupling Local and Global Representations of Time Series 
+
+Amortised Likelihood-free Inference for Expensive Time-series Simulators with Signatured Ratio Estimation 
+
+Increasing the accuracy and resolution of precipitation forecasts using deep generative models 
+
+Multivariate Quantile Function Forecaster 
+
 ### WWW 2022
 
 Knowledge Enhanced GAN for IoT Traffic Generation
