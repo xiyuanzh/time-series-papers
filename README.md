@@ -25,6 +25,8 @@ When Transfer Learning Meets Cross-City Urban Flow Prediction: Spatio-Temporal A
 
 Physics-Informed Long-Sequence Forecasting From Multi-Resolution Spatiotemporal Data
 
+FOGS: First-Order Gradient Supervision with Learning-based Graph for Traffic Flow Forecasting
+
 ### WWW 2022
 
 Knowledge Enhanced GAN for IoT Traffic Generation
@@ -54,3 +56,47 @@ Leveraging Dependencies among Learned Temporal Subsequences.
 Contextual Bandits for Advertising Campaigns: A Diffusion-Model Independent Approach
 
 Measuring Disentangled Generative Spatio-Temporal Representation
+
+### AAAI 2022
+
+Towards a Rigorous Evaluation of Time-Series Anomaly Detection
+
+Training Robust Deep Models for Time-Series Domain: Novel Algorithms and Theoretical Analysis
+
+CATN: Cross Attentive Tree-Aware Network for Multivariate Time Series Forecasting
+
+Reinforcement Learning based Dynamic Model Combination for Time Series Forecasting
+
+TS2Vec: Towards Universal Representation of Time Series
+
+I-SEA: Importance Sampling and Expected Alignment-Based Deep Distance Metric Learning for Time Series Analysis and Embedding
+
+Clustering Interval-Censored Time-Series for Disease Phenotyping
+
+Conditional Loss and Deep Euler Scheme for Time Series Generation
+
+Conditional Local Convolution for Spatio-Temporal Meteorological Forecasting
+
+Learning and Dynamical Models for Sub-Seasonal Climate Forecasting: Comparison and Collaboration
+
+Graph Neural Controlled Differential Equations for Traffic Forecasting
+
+Dynamic Manifold Learning for Land Deformation Forecasting
+
+HAGEN: Homophily-Aware Graph Convolutional Recurrent Network for Crime Forecasting
+
+PrEF: Probabilistic Electricity Forecasting via Copula-Augmented State Space Model
+
+LIMREF: Local Interpretable Model Agnostic Rule-Based Explanations for Forecasting, with an Application to Electricity Smart Meter Data
+
+NumHTML: Numeric-Oriented Hierarchical Transformer Model for Multi-Task Financial Forecasting
+
+CausalGNN: Causal-Based Graph Neural Networks for Spatio-Temporal Epidemic Forecasting
+
+AGNN-RNNApproach for Harnessing Geospatial and Temporal Information: Application to Crop Yield Prediction
+
+SPATE-GAN: Improved Generative Modeling of Dynamic Spatio-Temporal Patterns with an Autoregressive Embedding Loss
+
+Feature Importance Explanations for Temporal Black-Box Models
+
+MuMu:Cooperative Multitask Learning-based Guided Multimodal Fusion
