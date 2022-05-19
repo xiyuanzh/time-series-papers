@@ -14,6 +14,20 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
     - [ICLR 2022](#iclr-2022)
     - [AAAI 2022](#aaai-2022)
     - [WSDM 2022](#wsdm-2022)
+- [2021](#2021)
+    - [ICDM 2021](#icdm-2021)
+    - [CIKM 2021](#cikm-2021)
+    - [NeurIPS 2021](#neurips-2021)
+    - [UAI 2021](#uai-2021)
+    - [KDD 2021](#kdd-2021)
+    - [ICML 2021](#icml-2021) 
+    - [IJCAI 2021](#ijcai-2021)
+    - [WWW 2021](#www-2021)
+    - [SDM 2021](#sdm-2021)
+    - [AISTATS 2021](#aistats-2021)
+    - [ICLR 2021](#iclr-2021)
+    - [AAAI 2021](#aaai-2021)
+    - [WSDM 2021](#wsdm-2021)
 
 ## 2022
 
@@ -192,3 +206,206 @@ CMT-Net: A Mutual Transition Aware Framework for Taxicab Pick-ups and Drop-offs 
 Predicting Human Mobility via Graph Convolutional Dual-attentive Networks
 
 RLMob: Deep Reinforcement Learning for Successive Mobility Prediction
+
+## 2021
+
+### ICDM 2021
+
+Towards Interpretability and Personalization: A Predictive Framework for Clinical Time-series Analysis
+
+Towards Generating Real-World Time Series Data
+
+Continual Learning for Multivariate Time Series Tasks with Variable Input Dimensions
+
+CASPITA: Mining Statistically Significant Paths in Time Series Data from an Unknown Network
+
+Multi-way Time Series Join on Multi-length Patterns
+
+Ultra fast warping window optimization for Dynamic Time Warping
+
+Disentangled Deep Multivariate Hawkes Process for Learning Event Sequences
+
+Attentive Neural Controlled Differential Equations for Time-series Classification and Forecasting
+
+SSDNet: State Space Decomposition Neural Network for Time Series Forecasting
+
+Space Meets Time: Local Spacetime Neural Network For Traffic Flow Forecasting
+
+DAC-ML: Domain Adaptable Continuous Meta-Learning for Urban Dynamics Prediction
+
+Sequential Diagnosis Prediction with Transformer and Ontological Representation
+
+Partial Differential Equation Driven Dynamic Graph Networks for Predicting Stream Water Temperature
+
+Label Dependent Attention Model for Disease Risk Prediction Using Multimodal Electronic Health Records
+
+SCEHR: Supervised Contrastive Learning for Clinical Risk Predictions with Electronic Health Records
+
+LIFE: Learning Individual Features for Multivariate Time Series Prediction with Missing Values
+
+MERITS: Medication Recommendation for Chronic Disease with Irregular Time-Series
+
+PIETS: Parallelised Irregularity Encoders for Forecasting with Heterogeneous Time-Series
+
+Matrix Profile XXIII: Contrast Profile: A Novel Time Series Primitive that Allows Real World Classification
+
+LOGIC: Probabilistic Machine Learning for Time Series Classification
+
+SMATE: Semi-Supervised Spatio-Temporal Representation Learning on Multivariate Time Series
+
+STING: Self-attention based Time-series Imputation Networks using GAN
+
+Spikelet: An Adaptive Symbolic Approximation for Finding Higher-Level Structure in Time Series
+
+Streaming Dynamic Graph Neural Networks for Continuous-Time Temporal Graph Modeling
+
+TCube: Domain-Agnostic Neural Time-series Narration
+
+TEST-GCN: Topologically Enhanced Spatial-Temporal Graph Convolutional Networks for Traffic Forecasting
+
+### CIKM 2021
+
+ClaSP - Time Series Segmentation
+
+Learning to Learn the Future: Modeling Concept Drifts in Time Series Prediction
+
+AdaRNN: Adaptive Learning and Forecasting of Time Series
+
+Learning Saliency Maps to Explain Deep Time Series Classifiers
+
+Actionable Insights in Urban Multivariate Time-series
+
+Integrating Static and Time-Series Data in Deep Recurrent Models for Oncology Early Warning Systems
+
+Hierarchical Semantics Matching For Heterogeneous Spatio-temporal Sources
+
+HASTE: A Distributed System for Hybrid and Adaptive Processing on Streaming Spatial-Textual Data
+
+Spatio-Temporal-Categorical Graph Neural Networks for Fine-Grained Multi-Incident Co-Prediction
+
+Spatio-Temporal-Social Multi-Feature-based Fine-Grained Hot Spots Prediction for Content Delivery Services in 5G Era
+
+Into the Unobservables: A Multi-range Encoder-decoder Framework for COVID-19 Prediction
+
+What is Next when Sequential Prediction Meets Implicitly Hard Interaction?
+
+Stock Trend Prediction with Multi-granularity Data: A Contrastive Learning Approach with Adaptive Fusion
+
+### NeurIPS 2021
+
+Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting
+    
+Dynamical Wasserstein Barycenters for Time-series Modeling
+    
+CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation
+    
+Conformal Time-series Forecasting
+    
+Coresets for Time Series Clustering
+    
+MixSeq: Connecting Macroscopic Time Series Forecasting with Microscopic Time Series Data
+    
+Adjusting for Autocorrelated Errors in Neural Networks for Time Series
+    
+Deep Explicit Duration Switching Models for Time Series
+
+Online false discovery rate control for anomaly detection in time series
+
+Topological Attention for Time Series Forecasting
+    
+Time-series Generation by Contrastive Imitation
+
+Probabilistic Transformer For Time Series Analysis
+
+Spatial-Temporal Super-Resolution of Satellite Imagery via Conditional Pixel Synthesis
+
+### UAI 2021
+
+GP-ConvCNP: Better Generalization for Convolutional Conditional Neural Processes on Time Series Data
+
+PLSO: A generative framework for decomposing nonstationary time-series into piecewise stationary oscillatory components
+
+Subseasonal Climate Prediction in the Western US using Bayesian Spatial Models
+
+### KDD 2021
+
+MiniRocket: A Fast (Almost) Deterministic Transform for Time Series Classification 
+
+Deep Learning Embeddings for Data Series Similarity Search 
+
+Fast and Accurate Partial Fourier Transform for Time Series Data 
+
+Representation Learning of Multivariate Time Series using a Transformer Framework 
+
+ST-Norm: Spatial and Temporal Normalization for Multi-variate Time Series Forecasting 
+
+Statistical models coupling allows for complex localmultivariate time series analysis 
+
+Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling 
+
+Dynamic and Multi-faceted Spatio-temporal Deep Learning for Traffic Speed Forecasting 
+
+Quantifying Uncertainty in Deep Spatiotemporal Forecasting 
+
+Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting 
+
+Weakly Supervised Spatial Deep Learning based on Imperfect Training Labels with Location Errors 
+
+A PLAN for Tackling the Locust Crisis in East Africa: Harnessing Spatiotemporal Deep Models for Locust Movement Forecasting 
+
+Graph Deep Factor Model for Cloud Utilization Forecasting 
+
+JOHAN: A Joint Online Hurricane Trajectory and Intensity Forecasting Framework 
+
+Accurate Multivariate Stock Movement Prediction via Data-Axis Transformer with Multi-Level Contexts 
+
+Attentive Heterogeneous Graph Embedding for Job Mobility Prediction 
+
+TrajNet: A Trajectory-Based Deep Learning Model for Traffic Prediction 
+
+### ICML 2021
+
+End-to-End Learning of Coherent Probabilistic Forecasts for Hierarchical Time Series
+
+Neural Rough Differential Equations for Long Time Series
+
+Voice2Series: Reprogramming Acoustic Models for Time Series Classification
+
+Whittle Networks: A Deep Likelihood Model for Time Series
+
+Necessary and sufficient conditions for causal feature selection in time series with latent common causes
+
+Explaining Time Series Predictions with Dynamic Masks
+
+Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting
+
+Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting
+
+Conformal prediction interval for dynamic time-series
+
+Approximation Theory of Convolutional Architectures for Time Series Modelling
+
+RNN with Particle Flow for Probabilistic Spatio-temporal Forecasting
+
+Variance Reduced Training with Stratified Sampling for Forecasting Models
+
+Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting
+
+A Structured Observation Distribution for Generative Biological Sequence Prediction and Forecasting
+
+Principled Simplicial Neural Networks for Trajectory Prediction
+
+### IJCAI 2021
+
+### WWW 2021
+
+### SDM 2021
+
+### AISTATS 2021
+
+### ICLR 2021
+
+### AAAI 2021
+
+### WSDM 2021
+
