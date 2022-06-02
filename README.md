@@ -397,15 +397,156 @@ Principled Simplicial Neural Networks for Trajectory Prediction
 
 ### IJCAI 2021
 
+TE-ESN: Time Encoding Echo State Network for Prediction Based on Irregularly Sampled Time Series Data
+
+Time-Aware Multi-Scale RNNs for Time Series Modeling
+
+Time-Series Representation Learning via Temporal and Contextual Contrasting
+
+Adversarial Spectral Kernel Matching for Unsupervised Time Series Domain Adaptation
+
+Two Birds with One Stone: Series Saliency for Accurate and Interpretable Multivariate Time Series Forecasting
+
+Multi-series Time-aware Sequence Partitioning for Disease Progression Modeling
+
+Multi-version Tensor Completion for Time-delayed Spatio-temporal Data
+
+Physics-aware Spatiotemporal Modules with Auxiliary Tasks for Meta-Learning
+
+Hierarchical Adaptive Temporal-Relational Modeling for Stock Trend Prediction
+
+Residential Electric Load Forecasting via Attentive Transfer of Graph Neural Networks
+
+TrafficStream: A Streaming Traffic Flow Forecasting Framework Based on Graph Neural Networks and Continual Learning
+
+Multimodal Transformer Networks for Pedestrian Trajectory Prediction
+
+Cooperative Joint Attentive Network for Patient Outcome Prediction on Irregular Multi-Rate Multivariate Health Data
+
 ### WWW 2021
+
+DeepFEC: Energy Consumption Prediction under Real-World Driving Conditions for Smart Cities
+
+HINTS: Citation Time Series Prediction for New Publications viaDynamic Heterogeneous Information Network Embedding
+
+Network of Tensor Time Series
+
+Radflow: A Recurrent, Aggregated, and Decomposable Model for Networks of Time Series
+
+REST: Reciprocal Framework for Spatiotemporal coupled predictions
+
+SDFVAE: Static and Dynamic Factorized VAE for Anomaly Detection of Multivariate CDN KPIs
+
+SRVAR: Joint Discrete Hidden State Discovery and Structure Learning from Time Series Data
+
+Time-series Change Point Detection with Self-Supervised Contrastive Predictive Coding
+
+STUaNet: Understanding uncertainty in spatiotemporal collective human mobility
 
 ### SDM 2021
 
+Learning Time-series Shapelets via Supervised Feature Selection
+
+Robust Dual Recurrent Neural Networks for Financial Time Series Prediction
+
+Attention-Based Autoregression for Accurate and Efficient Multivariate Time Series Forecasting
+
+UNIANO: robust and efficient anomaly consensus in time series sensitive to cross-correlated anomaly profiles
+
+Inter-Series Attention Model for COVID-19 Forecasting 
+
+Stochastic Time Series Representation for Interval Pattern Mining via Gaussian Processes
+
+Hypa: Efficient Detection of Path Anomalies in Time Series Data on Networks 
+
+Filling Missing Values on Wearable-Sensory Time Series Data
+
+Lag-Aware Multivariate Time-Series Segmentation 
+
+Learning Time-series Shapelets for Optimizing Partial AUC 
+
+A Fine-grained Graph-based Spatiotemporal Network for Bike Flow Prediction in Bike-sharing Systems
+
+Semantic Discord: Finding Unusual Local Patterns for Time Series 
+
+MT-STNets: Multi-Task Spatial-Temporal Networks for Multi-Scale Traffic Prediction
+
 ### AISTATS 2021
+
+Simultaneously Reconciled Quantile Forecasting of Hierarchically Related Time Series 
+
+Aligning Time Series on Incomparable Spaces 
+
+Differentiable Divergences Between Time Series 
 
 ### ICLR 2021
 
+Multi-Time Attention Networks for Irregularly Sampled Time Series
+
+Unsupervised Representation Learning for Time Series with Temporal Neighborhood Coding
+
+Multivariate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows
+
+Generative Time-series Modeling with Fourier Flows
+
+Discrete Graph Structure Learning for Forecasting Multiple Time Series
+
+Clairvoyance: A Pipeline Toolkit for Medical Time Series
+
+HalentNet: Multimodal Trajectory Forecasting with Hallucinative Intents
+
+Augmenting Physical Models with Deep Networks for Complex Dynamics Forecasting
+
+Trajectory Prediction using Equivariant Continuous Convolution
+
 ### AAAI 2021
+
+Meta-Learning Framework with Applications to Zero-Shot Time-Series Forecasting
+
+Deep Switching Auto-Regressive Factorization: Application to Time Series Forecasting
+
+Dynamic Gaussian Mixture Based Deep Generative Model for Robust Forecasting on Sparse Multivariate Time Series
+
+Second Order Techniques for Learning Time-Series with Structural Breaks
+
+Correlative Channel-Aware Fusion for Multi-View Time Series Classification
+
+Learnable Dynamic Temporal Pooling for Time Series Classification
+
+Time Series Domain Adaptation via Sparse Associative Structure Alignment
+
+Learning Representations for Incomplete Time Series Clustering
+
+Temporal Latent Autoencoder: A Method for Probabilistic Multivariate Time Series Forecasting
+
+Graph Neural Network-Based Anomaly Detection in Multivariate Time Series
+
+ShapeNet: A Shapelet-Neural Network Approach for Multivariate Time Series Classification
+
+Time Series Anomaly Detection with Multiresolution Ensemble Decoding
+
+Joint-Label Learning by Dual Augmentation for Time Series Classification
+
+Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting
+
+Generative Semi-Supervised Learning for Multivariate Time Series Imputation
+
+Outlier Impact Characterization for Time Series Data
+
+Robust Spatio-Temporal Purchase Prediction via Deep Meta Learning
+
+Sub-Seasonal Climate Forecasting via Machine Learning: Challenges, Analysis, and Advances
+
+A Multi-Step-Ahead Markov Conditional Forward Model with Cube Perturbations for Extreme Weather Forecasting
 
 ### WSDM 2021
 
+Time-Series Event Prediction with Evolutionary State Graph
+
+Modeling Inter-station Relationships with Attentive Temporal Graph Convolutional Network for Air Quality Prediction
+
+Explainable Multivariate Time Series Classification: A Deep Neural Network Which Learns To Attend To Important Variables As Well As Time Intervals
+
+FluxEV: A Fast and Effective Unsupervised Framework for Time-Series Anomaly Detection
+
+Predicting Crowd Flows via Pyramid Dilated Deeper Spatial-temporal Network
