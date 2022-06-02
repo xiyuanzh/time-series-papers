@@ -7,6 +7,7 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
 </p>
 
 - [2022](#2022)
+    - [ICML 2022](#icml-2022)
     - [IJCAI 2022](#ijcai-2022)
     - [WWW 2022](#www-2022)
     - [SDM 2022](#sdm-2022)
@@ -30,6 +31,34 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
     - [WSDM 2021](#wsdm-2021)
 
 ## 2022
+
+### ICML 2022
+
+Closed-Form Diffeomorphic Transformations for Time Series Alignment
+
+FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting
+
+Deep Variational Graph Convolutional Recurrent Network for Multivariate Time Series Anomaly Detection
+
+Learning of Cluster-based Feature Importance for Electronic Health Record Time-series
+
+Modeling Irregular Time Series with Continuous Recurrent Units
+
+Domain Adaptation for Time Series Forecasting via Attention Sharing
+
+Utilizing Expert Features for Contrastive Learning of Time-Series Representations
+
+Reconstructing nonlinear dynamical systems from multi-modal time series
+
+Adaptive Conformal Predictions for Time Series
+
+TACTiS: Transformer-Attentional Copulas for Time Series
+
+Unsupervised Time-Series Representation Learning with Iterative Bilinear Temporal-Spectral Fusion
+
+DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting
+
+The Transfo-k-mer: protein fitness prediction with auto-regressive transformers and inference-time retrieval
 
 ### IJCAI 2022
 
