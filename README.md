@@ -7,6 +7,8 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
 </p>
 
 - [2022](#2022)
+    - [UAI 2022](#uai-2022)
+    - [KDD 2022](#kdd-2022)
     - [ICML 2022](#icml-2022)
     - [IJCAI 2022](#ijcai-2022)
     - [WWW 2022](#www-2022)
@@ -31,6 +33,58 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
     - [WSDM 2021](#wsdm-2021)
 
 ## 2022
+
+### UAI 2022
+
+Predictive Whittle Networks for Time Series
+
+Causal Discovery of Extended Summary Graphs in Time Series
+
+Physics Guided Neural Networks for Spatio-temporal Super-resolution of Turbulent Flows
+
+Causal Forecasting: Generalization Bounds for Autoregressive Models
+
+### KDD 2022
+
+Learning the Evolutionary and Multi-scale Graph Structure for Multivariate Time Series Forecasting
+
+Task-Aware Reconstruction for Time-Series Transformer
+
+Multi-Variate Time Series Forecasting on Variable Subsets
+
+ProActive: Self-Attentive Temporal Point Process Flows for Activity Sequences
+
+MSDR: Multi-Step Dependency Relation Networks for Spatial Temporal Forecasting
+
+Mining Spatio-Temporal Relations via Self-Paced Graph Contrastive Learning
+
+Beyond Point Prediction: Capturing Zero-Inflated & Heavy-Tailed Spatiotemporal Data with Deep Extreme Mixture Models
+
+Scaling Time Series Anomaly Detection to Trillions of Datapoints and Ultra-fast Arriving Data Streams
+
+Local Evaluation of Time Series Anomaly Detection Algorithms
+
+Learning to Rotate: Quaternion Transformer for Complicated Periodical Time Series Forecasting
+
+Learning Differential Operators for Interpretable Time Series Modeling
+
+Non-stationary Time-aware Kernelized Attention for Temporal Event Prediction
+
+Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting
+
+Scaling Time Series Anomaly Detection to Trillions of Datapoints and Ultra-fast Arriving Data Streams
+
+Robust Event Forecasting with Spatiotemporal Confounder Learning
+
+Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer
+
+Spatio-Temporal Trajectory Similarity Learning in Road Networks
+
+Selective Cross-city Transfer Learning for Traffic Prediction via Source City Region Re-weighting
+
+MetaPTP: An Adaptive Meta-optimized Model for Personalized Spatial Trajectory Prediction
+
+Human mobility prediction with causal and spatial-constrained multi-task network
 
 ### ICML 2022
 
