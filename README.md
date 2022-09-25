@@ -7,6 +7,7 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
 </p>
 
 - [2022](#2022)
+    - [CIKM 2022](#cikm-2022)
     - [NeurIPS 2022](#neurips-2022)
     - [UAI 2022](#uai-2022)
     - [KDD 2022](#kdd-2022)
@@ -34,6 +35,24 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
     - [WSDM 2021](#wsdm-2021)
 
 ## 2022
+
+### CIKM 2022
+
+AutoForecast: Automatic Time-Series Forecasting Model Selection
+
+Deep Extreme Mixture Model for Time Series Forecasting
+
+MARINA: An MLP-Attention Model for Multivariate Time-Series Analysis
+
+Stop&Hop: Early Classification of Irregular Time Series
+
+TFAD: A Decomposition Time Series Anomaly Detection Architecture with Time-Freq Analysis
+
+Domain Adversarial Spatial-Temporal Network: A Transferable Framework for Short-term Traffic Forecasting across Cities
+
+Residual Correction in Real-Time Traffic Forecasting
+
+Bridging Self-Attention and Time Series Decomposition for Periodic Forecasting
 
 ### NeurIPS 2022
 
