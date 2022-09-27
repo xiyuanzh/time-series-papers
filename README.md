@@ -1,6 +1,6 @@
 # Time Series AI Papers
 
-A list of up-to-date time-series papers in AI venues, tracking the following conferences: WSDM, AAAI, ICLR, AISTATS, SDM, WWW, IJCAI, ICML, KDD, UAI, NeurIPS, CIKM, ICDM
+A list of up-to-date time-series papers in AI venues, tracking the following conferences: WSDM, AAAI, ICLR, AISTATS, SDM, WWW, IJCAI, ICML, KDD, UAI, NeurIPS, CIKM, ICDM, ICASSP
 
 <p align="center">
 <img width="700" src="word-cloud.png" alt="overview" />
@@ -15,6 +15,7 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
     - [IJCAI 2022](#ijcai-2022)
     - [WWW 2022](#www-2022)
     - [SDM 2022](#sdm-2022)
+    - [ICASSP 2022](#icassp-2022)
     - [AISTATS 2022](#aistats-2022)
     - [ICLR 2022](#iclr-2022)
     - [AAAI 2022](#aaai-2022)
@@ -29,6 +30,7 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
     - [IJCAI 2021](#ijcai-2021)
     - [WWW 2021](#www-2021)
     - [SDM 2021](#sdm-2021)
+    - [ICASSP 2021](#icassp-2021)
     - [AISTATS 2021](#aistats-2021)
     - [ICLR 2021](#iclr-2021)
     - [AAAI 2021](#aaai-2021)
@@ -225,6 +227,26 @@ Collaborative Attention Mechanism for Multi-Modal Time Series Classification
 Leveraging Dependencies among Learned Temporal Subsequences
 
 Measuring Disentangled Generative Spatio-Temporal Representation
+
+### ICASSP 2022
+
+Attentional Gated Res2Net for Multivariate Time Series Classification
+
+Bayesian Continual Imputation and Prediction for Irregularly Sampled Time Series Data
+
+CDX-Net: Cross-Domain Multi-Feature Fusion Modeling via Deep Neural Networks for Multivariate Time Series Forecasting in AIOps
+
+Convex Clustering for Autocorrelated Time Series
+
+Graph Learning from Multivariate Dependent Time Series via a Multi-Attribute Formulation
+
+Multiple Temporal Context Embedding Networks for Unsupervised Time Series Anomaly Detection
+
+On Mini-Batch Training with Varying Length Time Series
+
+Sparse-Group Log-Sum Penalized Graphical Model Learning For Time Series
+
+STGAT-MAD : Spatial-Temporal Graph Attention Network for Multivariate Time Series Anomaly Detection
 
 ### AISTATS 2022
 
@@ -611,6 +633,20 @@ A Fine-grained Graph-based Spatiotemporal Network for Bike Flow Prediction in Bi
 Semantic Discord: Finding Unusual Local Patterns for Time Series 
 
 MT-STNets: Multi-Task Spatial-Temporal Networks for Multi-Scale Traffic Prediction
+
+### ICASSP 2021
+
+GDTW: A Novel Differentiable DTW Loss for Time Series Tasks
+
+Recursive Input and State Estimation: A General Framework for Learning from Time Series with Missing Data
+
+Semi-supervised Time Series Classification by Temporal Relation Prediction
+
+Spatiotemporal Attention for Multivariate Time Series Prediction and Interpretation
+
+Tabular Transformers for Modeling Multivariate Time Series
+
+Two-Stage Framework for Seasonal Time Series Forecasting
 
 ### AISTATS 2021
 
