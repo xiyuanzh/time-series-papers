@@ -6,6 +6,8 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
 <img width="700" src="word-cloud.png" alt="overview" />
 </p>
 
+- [2023](#2023)
+    - [WSDM 2023](#wsdm-2023)
 - [2022](#2022)
     - [CIKM 2022](#cikm-2022)
     - [NeurIPS 2022](#neurips-2022)
@@ -36,7 +38,19 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
     - [AAAI 2021](#aaai-2021)
     - [WSDM 2021](#wsdm-2021)
 
-## 2022
+## 2023
+
+### WSDM 2023
+
+Telecommunication Traffic Forecasting via Multi-task Learning
+
+Adversarial Autoencoder for Unsupervised Time Series Anomaly Detection and Interpretation
+
+Ask “Who”, Not “What”: Bitcoin Volatility Forecasting with Twitter Data
+
+DIGMN: Dynamic Intent Guided Meta Network for Differentiated User Engagement Forecasting in Online Professional Social Platforms
+
+Efficient Integration of Multi-Order Dynamics and Internal Dynamics in Stock Movement Prediction
 
 ### CIKM 2022
 
