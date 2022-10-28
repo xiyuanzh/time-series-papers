@@ -556,8 +556,6 @@ Explaining Time Series Predictions with Dynamic Masks
 
 Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting
 
-Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting
-
 Conformal prediction interval for dynamic time-series
 
 Approximation Theory of Convolutional Architectures for Time Series Modelling
