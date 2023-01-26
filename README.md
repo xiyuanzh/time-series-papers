@@ -7,6 +7,8 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
 </p>
 
 - [2023](#2023)
+    - [SDM 2023](#sdm-2023)
+    - [AAAI 2023](#aaai-2023)
     - [WSDM 2023](#wsdm-2023)
 - [2022](#2022)
     - [CIKM 2022](#cikm-2022)
@@ -39,6 +41,74 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
     - [WSDM 2021](#wsdm-2021)
 
 ## 2023
+
+### SDM 2023
+
+Attention-Based Multi-modal Missing Value Imputation for Time Series Data with High Missing Rate 
+
+Probabilistic Decomposition Transformer for Time Series Forecasting 
+
+PMP: Privacy-Aware Matrix Profile against Sensitive Pattern Inference for Time Series 
+
+Context-aware Domain Adaptation for Time Series Anomaly Detection 
+
+GIST: Graph Inference for Structured Time Series
+
+Discovering Multi-Dimensional Time Series Anomalies with K of N Anomaly Detection
+
+Time-delayed Multivariate Time Series Predictions 
+
+Deep Contrastive One-Class Time Series Anomaly Detection 
+
+Exact and Heuristic Approaches to Speeding Up the MSM Time Series Distance Computation 
+
+Towards Learning in Grey Spatiotemporal Systems: A Prophet to Non-consecutive Spatiotemporal Dynamics 
+
+StAGN: Spatial-Temporal Adaptive Graph Network via Constranstive Learning for Sleep Stage Classification 
+
+STM-GAIL: Spatial-Temporal Meta-GAIL for Learning Diverse Human Driving Strategies 
+
+Mini-Batch Learning Strategies for modeling long term temporal dependencies: A study in environmental applications
+
+A Two-View EEG Representation for Brain Cognition by Composite Temporal-Spatial Contrastive Learning 
+
+Spatiotemporal Classification with limited labels using Constrained Clustering for large datasets
+
+
+
+### AAAI 2023
+
+WaveForM: Graph Enhanced Wavelet Learning for Long Sequence Forecasting of Multivariate Time Series
+
+Temporal-Frequency Co-Training for Time Series Semi-Supervised Learning
+
+SEnsor Alignment for Multivariate Time-Series Unsupervised Domain Adaptation
+
+Forecasting with Sparse but Informative Variables: A Case Study in Predicting Blood Glucose
+
+Causal Recurrent Variational Autoencoder for Medical Time Series Generation
+
+AEC-GAN: Adversarial Error Correction GANs for Auto-Regressive Long Time-series Generation
+
+An Extreme-Adaptive Time Series Prediction Model Based on Probability-Enhanced LSTM Neural Networks
+
+Are Transformers Effective for Time Series Forecasting?
+
+Supervised Contrastive Few-shot Learning for High-frequency Time Series
+
+Hierarchical Contrastive Learning for Temporal Point Processes
+
+Self-Supervised Learning for Anomalous Channel Detection in EEG Graphs: Application to Seizure Analysis
+
+SVP-T: A Shape-Level Variable-Position Transformer for Multivariate Time Series Classification
+
+Dish-TS: A General Paradigm for Alleviating Distribution Shift in Time Series Forecasting
+
+Spatio-Temporal Meta-Graph Learning for Traffic Forecasting
+
+WSiP: Wave Superposition Inspired Pooling for Dynamic Interactions-Aware Trajectory Prediction
+
+PEN: Prediction-Explanation Network to Forecast Stock Price Movement with Better Explainability
 
 ### WSDM 2023
 
