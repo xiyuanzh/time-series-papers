@@ -1,6 +1,6 @@
 # Time Series AI Papers
 
-A list of up-to-date time-series papers in AI venues, tracking the following conferences: WSDM, AAAI, ICLR, AISTATS, SDM, WWW, IJCAI, ICML, KDD, UAI, NeurIPS, CIKM, ICDM, ICASSP
+A list of up-to-date time-series papers in AI venues, tracking the following conferences: WSDM, AAAI, ICLR, AISTATS, ICASSP, SDM, WWW, IJCAI, ICML, KDD, UAI, NeurIPS, CIKM, ICDM
 
 <p align="center">
 <img width="700" src="word-cloud.png" alt="overview" />
@@ -11,6 +11,7 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
     - [AAAI 2023](#aaai-2023)
     - [WSDM 2023](#wsdm-2023)
 - [2022](#2022)
+    - [ICDM 2022](#icdm-2022)
     - [CIKM 2022](#cikm-2022)
     - [NeurIPS 2022](#neurips-2022)
     - [UAI 2022](#uai-2022)
@@ -75,7 +76,6 @@ A Two-View EEG Representation for Brain Cognition by Composite Temporal-Spatial 
 Spatiotemporal Classification with limited labels using Constrained Clustering for large datasets
 
 
-
 ### AAAI 2023
 
 WaveForM: Graph Enhanced Wavelet Learning for Long Sequence Forecasting of Multivariate Time Series
@@ -121,6 +121,35 @@ Ask “Who”, Not “What”: Bitcoin Volatility Forecasting with Twitter Data
 DIGMN: Dynamic Intent Guided Meta Network for Differentiated User Engagement Forecasting in Online Professional Social Platforms
 
 Efficient Integration of Multi-Order Dynamics and Internal Dynamics in Stock Movement Prediction
+
+
+## 2022
+
+### ICDM 2022
+
+Matrix Profile XXV: Introducing Novelets: A Primitive that Allows Online Detection of Emerging Behaviors in Time Series
+
+Neuro-symbolic Models for Interpretable Time Series Classification using Temporal Logic Description
+
+Class-Specific Explainability for Deep Time Series Classifiers
+
+Matrix Profile XXVI: Mplots: Scaling Time Series Similarity Matrices to Massive Data
+
+Robust Time Series Chain Discovery with Incremental Nearest Neighbors
+
+Self-explaining Hierarchical Model for Intraoperative Time Series
+
+MRM2: Multi-Relationship Modeling Module for Multivariate Time Series Classification
+
+Temporal Knowledge Graph Reasoning via Time- Distributed Representation Learning
+
+Text-enhanced Multi-Granularity Temporal Graph Learning for Event Prediction
+
+Mest-GAN: Cross-City Urban Traffic Estimation with Meta Spatial-Temporal Generative Adversarial Network
+
+STORM-GAN: Spatio-Temporal Meta-GAN for Cross-City Estimation of Human Mobility Responses to COVID-19
+
+Spatiotemporal Contextual Consistency Network for Precipitation Nowcasting
 
 ### CIKM 2022
 
