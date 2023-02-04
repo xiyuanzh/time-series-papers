@@ -148,6 +148,29 @@ WSiP: Wave Superposition Inspired Pooling for Dynamic Interactions-Aware Traject
 
 PEN: Prediction-Explanation Network to Forecast Stock Price Movement with Better Explainability
 
+N-HiTS: Neural Hierarchical Interpolation for Time Series Forecasting
+
+Detecting Multivariate Time Series Anomalies with Zero Known Label
+
+Learning Dynamic Temporal Relations with Continuous Graph for Multivariate Time Series Forecasting
+
+DyCVAE: Learning Dynamic Causal Factors for Non-stationary Series Domain Generalization
+
+An Extreme-Adaptive Time Series Prediction Model Based on Probability-Enhanced LSTM Neural Networks
+
+InParformer: Evolutionary Decomposition Transformers with Interactive Parallel Attention for Long-Term Time Series Forecasting
+
+SLOTH: Structured Learning and Task-based Optimization for Time Series Forecasting on Hierarchies
+
+Estimating Treatment Effects from Irregular Time Series Observations with Hidden Confounders
+
+PrimeNet: Pre-Training for Irregular Multivariate Time Series
+
+Time Series Contrastive Learning with Information-Aware Augmentations
+
+Black-box Adversarial Attack on Time Series Classification
+
+
 ### WSDM 2023
 
 Telecommunication Traffic Forecasting via Multi-task Learning
