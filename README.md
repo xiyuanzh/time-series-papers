@@ -114,6 +114,8 @@ Koopman Neural Operator Forecaster for Time-series with Temporal Distributional 
 
 Robust Multivariate Time-Series Forecasting: Adversarial Attacks and Defense Mechanisms 
 
+Deep Declarative Dynamic Time Warping for End-to-End Learning of Alignment Paths
+
 ### AAAI 2023
 
 WaveForM: Graph Enhanced Wavelet Learning for Long Sequence Forecasting of Multivariate Time Series
