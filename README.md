@@ -7,7 +7,9 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
 </p>
 
 - [2023](#2023)
+    - [WWW 2023](#www-2023)
     - [SDM 2023](#sdm-2023)
+    - [AISTATS 2023](#aistats-2023)
     - [ICLR 2023](#iclr-2023)
     - [AAAI 2023](#aaai-2023)
     - [WSDM 2023](#wsdm-2023)
@@ -44,6 +46,14 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
 
 ## 2023
 
+### WWW 2023
+
+FormerTime: Hierarchical Multi-Scale Representations for Multivariate Time Series Classification
+
+TFE-GNN: A Temporal Fusion Encoder Using Graph Neural Networks for Fine-grained Encrypted Traffic Classification
+
+INCREASE: Inductive Graph Representation Learning for Spatio-Temporal Kriging
+
 ### SDM 2023
 
 Attention-Based Multi-modal Missing Value Imputation for Time Series Data with High Missing Rate 
@@ -75,6 +85,18 @@ Mini-Batch Learning Strategies for modeling long term temporal dependencies: A s
 A Two-View EEG Representation for Brain Cognition by Composite Temporal-Spatial Contrastive Learning 
 
 Spatiotemporal Classification with limited labels using Constrained Clustering for large datasets
+
+### AISTATS 2023
+
+Vector Quantized Time Series Modeling with a Bidirectional Prior Model 
+
+Root Cause Identification for Collective Anomalies given a Summary Causal Graph and Time Series 
+
+Weather2K: A Multivariate Spatio-Temporal Benchmark Dataset for Meteorological Forecasting Based on Real-Time Observation Data from Ground Weather Stations 
+
+T-Phenotype: Discovering Phenotypes of Predictive Temporal Patterns in Disease Progression 
+
+Coherent Probabilistic Forecasting of Temporal Hierarchies 
 
 ### ICLR 2023
 
