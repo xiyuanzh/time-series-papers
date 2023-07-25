@@ -1,12 +1,15 @@
 # Time Series AI Papers
 
-A list of up-to-date time-series papers in AI venues, tracking the following conferences: WSDM, AAAI, ICLR, AISTATS, ICASSP, SDM, WWW, IJCAI, ICML, KDD, UAI, NeurIPS, CIKM, ICDM
+A list of up-to-date time-series papers in AI venues, tracking the following conferences: WSDM, AAAI, ICLR, AISTATS, ICASSP, SDM, WWW, IJCAI, ICML, KDD, NeurIPS, CIKM, ICDM
 
 <p align="center">
 <img width="700" src="word-cloud.png" alt="overview" />
 </p>
 
 - [2023](#2023)
+    - [KDD 2023](#kdd-2023)
+    - [ICML 2023](#icml-2023) 
+    - [IJCAI 2023](#ijcai-2023)
     - [WWW 2023](#www-2023)
     - [SDM 2023](#sdm-2023)
     - [AISTATS 2023](#aistats-2023)
@@ -17,7 +20,6 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
     - [ICDM 2022](#icdm-2022)
     - [CIKM 2022](#cikm-2022)
     - [NeurIPS 2022](#neurips-2022)
-    - [UAI 2022](#uai-2022)
     - [KDD 2022](#kdd-2022)
     - [ICML 2022](#icml-2022)
     - [IJCAI 2022](#ijcai-2022)
@@ -32,7 +34,6 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
     - [ICDM 2021](#icdm-2021)
     - [CIKM 2021](#cikm-2021)
     - [NeurIPS 2021](#neurips-2021)
-    - [UAI 2021](#uai-2021)
     - [KDD 2021](#kdd-2021)
     - [ICML 2021](#icml-2021) 
     - [IJCAI 2021](#ijcai-2021)
@@ -45,6 +46,106 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
     - [WSDM 2021](#wsdm-2021)
 
 ## 2023
+
+### KDD 2023
+
+DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection
+
+Precursor-of-Anomaly Detection for Irregular Time Series
+
+Transferable Graph Structure Learning for Graph-Based Traffic Forecasting Across Cities
+
+TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting
+
+Hierarchical Proxy Modeling for Improved HPO in Time Series Forecasting
+
+FLAMES2Graph: An Interpretable Federated Multivariate Time Series Classification Framework
+
+When Rigidity Hurts: Soft Consistency Regularization for Probabilistic Hierarchical Time Series Forecasting
+
+Warpformer: A Multi-Scale Modeling Approach for Irregular Clinical Time Series
+
+WHEN: A Wavelet-DTW Hybrid Attention Network for Heterogeneous Time Series Analysis
+
+Source-Free Domain Adaptation with Temporal Imputation for Time Series Data
+
+Networked Time Series Imputation via Position-aware Graph Enhanced Variational Autoencoders
+
+Sparse Binary Transformers for Multivariate Time Series Modeling
+
+Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models
+
+An Observed Value Consistent Diffusion Model for Imputing Missing Values in Multivariate Time Series
+
+Parameter-free Spikelet: Discovering Different Length and Warped Time Series Motifs using an Adaptive Time Series Representation
+
+DoubleAdapt: A Meta-Learning Approach to Incremental Learning for Stock Trend Forecasting
+
+Web-Based Long-Term Spine Treatment Outcome Forecasting
+
+### ICML 2023
+
+Domain Adaptation for Time Series Under Feature and Label Shifts
+
+Learning Perturbations to Explain Time Series Predictions
+
+Non-autoregressive Conditional Diffusion Models for Time Series Prediction
+
+Probabilistic Imputation for Time-series Classification with Missing Data
+
+Provably Convergent Schrödinger Bridge with Applications to Probabilistic Time Series Imputation
+
+Learning Deep Time-index Models for Time Series Forecasting
+
+Self-Interpretable Time Series Prediction with Counterfactual Explanations
+
+Neural Continuous-Discrete State Space Models for Irregularly-Sampled Time Series
+
+Neural Stochastic Differential Games for Time-series Analysis
+
+Theoretical Guarantees of Learning Ensembling Strategies with Applications to Time Series Forecasting
+
+Prototype-oriented unsupervised anomaly detection for multivariate time series
+
+Sequential Monte Carlo Learning for Time Series Structure Discovery
+
+Sequential Multi-Dimensional Self-Supervised Learning for Clinical Time Series
+
+Feature Programming for Multivariate Time Series Prediction
+
+SOM-CPC: Unsupervised Contrastive Learning with Self-Organizing Maps for Structured Representations of High-Rate Time Series
+
+Deep Latent State Space Models for Time-Series Generation
+
+Context Consistency Regularization for Label Sparsity in Time Series
+
+Sequential Predictive Conformal Inference for Time Series
+
+Regions of Reliability in the Evaluation of Multivariate Probabilistic Forecasts
+
+Regression with Sensor Data Containing Incomplete Observations
+
+### IJCAI 2023
+
+CTW: Confident Time-Warping for Time-Series Label-Noise Learning
+
+Latent Processes Identification From Multi-View Time Series
+
+SMARTformer: Semi-Autoregressive Transformer with Efficient Integrated Window Attention for Long Time Series Forecasting
+
+DeLELSTM: Decomposition-based Linear Explainable LSTM to Capture Instantaneous and Long-term Effects in Time Series
+
+Learning Gaussian Mixture Representations for Tensor Time Series Forecasting
+
+pTSE: A Multi-model Ensemble Method for Probabilistic Time Series Forecasting
+
+Distilling Universal and Joint Knowledge for Cross-Domain Model Compression on Time Series Data
+
+Not Only Pairwise Relationships: Fine-Grained Relational Modeling for Multivariate Time Series Forecasting
+
+Self-Recover: Forecasting Block Maxima in Time Series from Predictors with Disparate Temporal Coverage Using Self-Supervised Learning
+
+Prompt Federated Learning for Weather Forecasting: Toward Foundation Models on Meteorological Data
 
 ### WWW 2023
 
@@ -291,16 +392,6 @@ C2FAR: Coarse-to-Fine Autoregressive Networks for Precise Probabilistic Forecast
 Meta-Learning Dynamics Forecasting Using Task Inference
 
 AutoST: Towards the Universal Modeling of Spatio-temporal Sequences
-
-### UAI 2022
-
-Predictive Whittle Networks for Time Series
-
-Causal Discovery of Extended Summary Graphs in Time Series
-
-Physics Guided Neural Networks for Spatio-temporal Super-resolution of Turbulent Flows
-
-Causal Forecasting: Generalization Bounds for Autoregressive Models
 
 ### KDD 2022
 
@@ -679,14 +770,6 @@ Time-series Generation by Contrastive Imitation
 Probabilistic Transformer For Time Series Analysis
 
 Spatial-Temporal Super-Resolution of Satellite Imagery via Conditional Pixel Synthesis
-
-### UAI 2021
-
-GP-ConvCNP: Better Generalization for Convolutional Conditional Neural Processes on Time Series Data
-
-PLSO: A generative framework for decomposing nonstationary time-series into piecewise stationary oscillatory components
-
-Subseasonal Climate Prediction in the Western US using Bayesian Spatial Models
 
 ### KDD 2021
 
