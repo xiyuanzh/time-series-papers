@@ -281,8 +281,6 @@ Learning Dynamic Temporal Relations with Continuous Graph for Multivariate Time 
 
 DyCVAE: Learning Dynamic Causal Factors for Non-stationary Series Domain Generalization
 
-An Extreme-Adaptive Time Series Prediction Model Based on Probability-Enhanced LSTM Neural Networks
-
 InParformer: Evolutionary Decomposition Transformers with Interactive Parallel Attention for Long-Term Time Series Forecasting
 
 SLOTH: Structured Learning and Task-based Optimization for Time Series Forecasting on Hierarchies
