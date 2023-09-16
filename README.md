@@ -247,6 +247,8 @@ Automated Spatio-Temporal Multi-Task Learning
 
 Scalable Spatiotemporal Graph Neural Networks
 
+Easy Begun Is Half Done: Spatial-Temporal Graph Modeling with ST-Curriculum Dropou
+
 Spatio-Temporal Neural Structural Causal Models for Bike Flow Prediction
 
 Spatio-Temporal Self-Supervised Learning for Traffic Flow Prediction
