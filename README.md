@@ -241,6 +241,12 @@ Deep Declarative Dynamic Time Warping for End-to-End Learning of Alignment Paths
 
 ### AAAI 2023
 
+Spatio-Temporal Graph Neural Point Process for Traffic Congestion Event Prediction
+
+Automated Spatio-Temporal Multi-Task Learning
+
+Scalable Spatiotemporal Graph Neural Networks
+
 Spatio-Temporal Neural Structural Causal Models for Bike Flow Prediction
 
 Spatio-Temporal Self-Supervised Learning for Traffic Flow Prediction
