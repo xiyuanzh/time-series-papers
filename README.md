@@ -241,6 +241,10 @@ Deep Declarative Dynamic Time Warping for End-to-End Learning of Alignment Paths
 
 ### AAAI 2023
 
+Spatio-Temporal Neural Structural Causal Models for Bike Flow Prediction
+
+Spatio-Temporal Self-Supervised Learning for Traffic Flow Prediction
+
 WaveForM: Graph Enhanced Wavelet Learning for Long Sequence Forecasting of Multivariate Time Series
 
 Temporal-Frequency Co-Training for Time Series Semi-Supervised Learning
