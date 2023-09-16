@@ -243,6 +243,8 @@ Deep Declarative Dynamic Time Warping for End-to-End Learning of Alignment Paths
 
 Spatio-Temporal Graph Neural Point Process for Traffic Congestion Event Prediction
 
+Causal Conditional Hidden Markov Model for Multimodal Traffic Prediction
+
 Automated Spatio-Temporal Multi-Task Learning
 
 Learning Decomposed Spatial Relations for Multi-Variate Time-Series Modeling
