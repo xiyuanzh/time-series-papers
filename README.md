@@ -245,7 +245,11 @@ Spatio-Temporal Graph Neural Point Process for Traffic Congestion Event Predicti
 
 Automated Spatio-Temporal Multi-Task Learning
 
+Learning Decomposed Spatial Relations for Multi-Variate Time-Series Modeling
+
 Scalable Spatiotemporal Graph Neural Networks
+
+Unifying Electricity Forecasting with Robust, Flexible, and Explainable Machine Learning Algorithms
 
 Easy Begun Is Half Done: Spatial-Temporal Graph Modeling with ST-Curriculum Dropou
 
