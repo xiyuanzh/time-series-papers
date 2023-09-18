@@ -253,7 +253,7 @@ Scalable Spatiotemporal Graph Neural Networks
 
 Unifying Electricity Forecasting with Robust, Flexible, and Explainable Machine Learning Algorithms
 
-Easy Begun Is Half Done: Spatial-Temporal Graph Modeling with ST-Curriculum Dropou
+Easy Begun Is Half Done: Spatial-Temporal Graph Modeling with ST-Curriculum Dropout
 
 Spatio-Temporal Neural Structural Causal Models for Bike Flow Prediction
 
