@@ -241,6 +241,24 @@ Deep Declarative Dynamic Time Warping for End-to-End Learning of Alignment Paths
 
 ### AAAI 2023
 
+Spatio-Temporal Graph Neural Point Process for Traffic Congestion Event Prediction
+
+Causal Conditional Hidden Markov Model for Multimodal Traffic Prediction
+
+Automated Spatio-Temporal Multi-Task Learning
+
+Learning Decomposed Spatial Relations for Multi-Variate Time-Series Modeling
+
+Scalable Spatiotemporal Graph Neural Networks
+
+Unifying Electricity Forecasting with Robust, Flexible, and Explainable Machine Learning Algorithms
+
+Easy Begun Is Half Done: Spatial-Temporal Graph Modeling with ST-Curriculum Dropou
+
+Spatio-Temporal Neural Structural Causal Models for Bike Flow Prediction
+
+Spatio-Temporal Self-Supervised Learning for Traffic Flow Prediction
+
 WaveForM: Graph Enhanced Wavelet Learning for Long Sequence Forecasting of Multivariate Time Series
 
 Temporal-Frequency Co-Training for Time Series Semi-Supervised Learning
@@ -280,8 +298,6 @@ Detecting Multivariate Time Series Anomalies with Zero Known Label
 Learning Dynamic Temporal Relations with Continuous Graph for Multivariate Time Series Forecasting
 
 DyCVAE: Learning Dynamic Causal Factors for Non-stationary Series Domain Generalization
-
-An Extreme-Adaptive Time Series Prediction Model Based on Probability-Enhanced LSTM Neural Networks
 
 InParformer: Evolutionary Decomposition Transformers with Interactive Parallel Attention for Long-Term Time Series Forecasting
 
