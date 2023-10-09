@@ -7,6 +7,8 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
 </p>
 
 - [2023](#2023)
+    - [CIKM 2023](#cikm-2023)
+    - [NeurIPS 2023](#neurips-2023)
     - [KDD 2023](#kdd-2023)
     - [ICML 2023](#icml-2023) 
     - [IJCAI 2023](#ijcai-2023)
@@ -46,6 +48,102 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
     - [WSDM 2021](#wsdm-2021)
 
 ## 2023
+
+### CIKM 2023
+
+GCformer: An Efficient Solution for Accurate and Scalable Long-Term Multivariate Time Series Forecasting
+
+MemDA: Forecasting Urban Time Series with Memory-based Drift Adaptation
+
+Meta-Transfer-Learning for Time Series Data with Extreme Events: An Application to Water Temperature Prediction
+
+Temporal Convolutional Explorer Helps Understand 1D-CNN's Learning Behavior in Time Series Classification from Frequency Domain
+
+DSformer: A Double Sampling Transformer for Multivariate Time Series Long-term Prediction
+
+TriD-MAE: A Generic Pre-trained Model for Multivariate Time Series with Missing Values
+
+FAMC-Net: Frequency Domain Parity Correction Attention and Multi-Scale Dilated Convolution for Time Series Forecasting
+
+DuoGAT: Dual Time-oriented Graph Attention Networks for Accurate, Efficient and Explainable Anomaly Detection on Time-series
+
+Khronos: A Real-Time Indexing Framework for Time Series Databases on Large-Scale Performance Monitoring Systems
+
+Density-Aware Temporal Attentive Step-wise Diffusion Model For Medical Time Series Imputation
+
+A Co-training Approach for Noisy Time Series Learning
+
+Time-series Shapelets with Learnable Lengths
+
+Toward a Foundation Model for Time Series Data
+
+Unlocking the Potential of Deep Learning in Peak-Hour Series Forecasting
+
+TemDep: Temporal Dependency Priority for Multivariate Time Series Prediction
+
+Clustering-property Matters: A Cluster-aware Network for Large Scale Multivariate Time Series Forecasting
+
+Learning Visibility Attention Graph Representation for Time Series Forecasting
+
+Rethinking Sensors Modeling: Hierarchical Information Enhanced Traffic Forecasting
+
+Unleashing the Power of Shared Label Structures for Human Activity Recognition
+
+### NeurIPS 2023
+
+One Fits All: Power General Time Series Analysis by Pretrained LM
+
+MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection
+
+OneNet: Enhancing Time Series Forecasting Models under Concept Drift by Online Ensembling
+
+Scale-teaching: Robust Multi-scale Training for Time Series Classification with Noisy Labels
+
+Adaptive Normalization for Non-stationary Time Series Forecasting: A Temporal Slice Perspective
+
+Causal Discovery from Subsampled Time Series with Proxy Variables
+
+Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting
+
+What if We Enrich day-ahead Solar Irradiance Time Series Forecasting with Spatio-Temporal Context?
+
+CrossGNN: Confronting Noisy Multivariate Time Series Via Cross Interaction Refinement
+
+Time Series Kernels based on Nonlinear Vector AutoRegressive Delay Embeddings
+
+WildfireSpreadTS: A dataset of multi-modal time series for wildfire spread prediction
+
+Frequency-domain MLPs are More Effective Learners in Time Series Forecasting
+
+ContiFormer: Continuous-Time Transformer for Irregular Time Series Modeling
+
+Koopa: Learning Non-stationary Time Series Dynamics with Koopman Predictors
+
+Conformal Scorecasting: Anticipatory Uncertainty Quantification for Distribution Shift in Time Series
+
+Drift doesn't Matter: Dynamic Decomposition with Diffusion Reconstruction for Unstable Multivariate Time Series Anomaly Detection
+
+Sparse Deep Learning for Time Series Data: Theory and Applications
+
+Large Language Models Are Zero Shot Time Series Forecasters
+
+Sparse Graph Learning from Spatiotemporal Time Series
+
+BasisFormer: Attention-based Time Series Forecasting with Learnable and Interpretable Basis
+
+WITRAN: Water-wave Information Transmission and Recurrent Acceleration Network for Long-range Time Series Forecasting
+
+Nominality Score Conditioned Time Series Anomaly Detection by Point/Sequential Reconstruction
+
+Causal Discovery in Semi-Stationary Time Series
+
+Conformal Prediction for Time Series with Modern Hopfield Networks
+
+Time Series as Images: Vision Transformer for Irregularly Sampled Time Series
+
+FourierGNN: Rethinking Multivariate Time Series Forecasting from a Pure Graph Perspective
+
+Finding Order in Chaos: A Novel Data Augmentation Method for Time Series in Contrastive Learning
 
 ### KDD 2023
 
