@@ -51,6 +51,40 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
 
 ### CIKM 2023
 
+MadSGM: Multivariate Anomaly Detection with Score-based Generative Models
+
+Monotonic Neural Ordinary Differential Equation: Time-series Forecasting for Cumulative Data
+
+Adaptive Graph Neural Diffusion for Traffic Demand Forecasting
+
+CARPG: Cross-City Knowledge Transfer for Traffic Accident Prediction via Attentive Region-Level Parameter Generation
+
+GBTTE: Graph Attention Network Based Bus Travel Time Estimation
+
+Cross-city Few-Shot Traffic Forecasting via Traffic Pattern Bank
+
+Follow the Will of the Market: A Context-Informed Drift-Aware Method for Stock Prediction
+
+Diffusion Variational Autoencoder for Tackling Stochasticity in Multi-Step Regression Stock Price Prediction
+
+Uncertainty Quantification via Spatial-Temporal Tweedie Model for Zero-inflated and Long-tail Travel Demand Prediction
+
+Enhancing the Robustness via Adversarial Learning and Joint Spatial-Temporal Embeddings in Traffic Forecasting
+
+Enhancing Spatio-temporal Traffic Prediction through Urban Human Activity Analysis
+
+HST-GT: Heterogeneous Spatial-Temporal Graph Transformer for Delivery Time Estimation in Warehouse-Distribution Integration E-Commerce
+
+Spatio-Temporal Adaptive Embedding Makes Vanilla Transformer SOTA for Traffic Forecasting
+
+MLPST: MLP is All You Need for Spatio-Temporal Prediction
+
+Mask- and Contrast-Enhanced Spatio-Temporal Learning for Urban Flow Prediction
+
+Region Profile Enhanced Urban Spatio-Temporal Prediction via Adaptive Meta-Learning
+
+PromptST: Prompt-Enhanced Spatio-Temporal Multi-Attribute Prediction
+
 GCformer: An Efficient Solution for Accurate and Scalable Long-Term Multivariate Time Series Forecasting
 
 MemDA: Forecasting Urban Time Series with Memory-based Drift Adaptation
