@@ -51,6 +51,12 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
 
 ### CIKM 2023
 
+ST-MoE: Spatio-Temporal Mixture-of-Experts for Debiasing in Traffic Prediction
+
+Spatio-Temporal Meta Contrastive Learning
+
+Spatial-Temporal Graph Boosting Networks: Enhancing Spatial-Temporal Graph Neural Networks via Gradient Boosting
+
 MadSGM: Multivariate Anomaly Detection with Score-based Generative Models
 
 Monotonic Neural Ordinary Differential Equation: Time-series Forecasting for Cumulative Data
