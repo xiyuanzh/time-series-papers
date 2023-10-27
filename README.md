@@ -147,6 +147,14 @@ Finding Order in Chaos: A Novel Data Augmentation Method for Time Series in Cont
 
 ### KDD 2023
 
+Generative Causal Interpretation Model for Spatio-Temporal Representation Learning
+
+Localised Adaptive Spatial-Temporal Graph Neural Network
+
+Maintaining the status quo-Capturing invariant relations for OOD spatiotemporal learning
+
+Pattern Expansion and Consolidation on Evolving Graphs for Continual Traffic Prediction
+
 DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection
 
 Precursor-of-Anomaly Detection for Irregular Time Series
@@ -411,6 +419,8 @@ Black-box Adversarial Attack on Time Series Classification
 
 
 ### WSDM 2023
+
+A Multi-graph Fusion Based Spatiotemporal Dynamic Learning Framework
 
 Telecommunication Traffic Forecasting via Multi-task Learning
 
