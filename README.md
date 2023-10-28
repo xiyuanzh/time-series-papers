@@ -51,6 +51,46 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
 
 ### CIKM 2023
 
+ST-MoE: Spatio-Temporal Mixture-of-Experts for Debiasing in Traffic Prediction
+
+Spatio-Temporal Meta Contrastive Learning
+
+Spatial-Temporal Graph Boosting Networks: Enhancing Spatial-Temporal Graph Neural Networks via Gradient Boosting
+
+MadSGM: Multivariate Anomaly Detection with Score-based Generative Models
+
+Monotonic Neural Ordinary Differential Equation: Time-series Forecasting for Cumulative Data
+
+Adaptive Graph Neural Diffusion for Traffic Demand Forecasting
+
+CARPG: Cross-City Knowledge Transfer for Traffic Accident Prediction via Attentive Region-Level Parameter Generation
+
+GBTTE: Graph Attention Network Based Bus Travel Time Estimation
+
+Cross-city Few-Shot Traffic Forecasting via Traffic Pattern Bank
+
+Follow the Will of the Market: A Context-Informed Drift-Aware Method for Stock Prediction
+
+Diffusion Variational Autoencoder for Tackling Stochasticity in Multi-Step Regression Stock Price Prediction
+
+Uncertainty Quantification via Spatial-Temporal Tweedie Model for Zero-inflated and Long-tail Travel Demand Prediction
+
+Enhancing the Robustness via Adversarial Learning and Joint Spatial-Temporal Embeddings in Traffic Forecasting
+
+Enhancing Spatio-temporal Traffic Prediction through Urban Human Activity Analysis
+
+HST-GT: Heterogeneous Spatial-Temporal Graph Transformer for Delivery Time Estimation in Warehouse-Distribution Integration E-Commerce
+
+Spatio-Temporal Adaptive Embedding Makes Vanilla Transformer SOTA for Traffic Forecasting
+
+MLPST: MLP is All You Need for Spatio-Temporal Prediction
+
+Mask- and Contrast-Enhanced Spatio-Temporal Learning for Urban Flow Prediction
+
+Region Profile Enhanced Urban Spatio-Temporal Prediction via Adaptive Meta-Learning
+
+PromptST: Prompt-Enhanced Spatio-Temporal Multi-Attribute Prediction
+
 GCformer: An Efficient Solution for Accurate and Scalable Long-Term Multivariate Time Series Forecasting
 
 MemDA: Forecasting Urban Time Series with Memory-based Drift Adaptation
@@ -146,6 +186,14 @@ FourierGNN: Rethinking Multivariate Time Series Forecasting from a Pure Graph Pe
 Finding Order in Chaos: A Novel Data Augmentation Method for Time Series in Contrastive Learning
 
 ### KDD 2023
+
+Generative Causal Interpretation Model for Spatio-Temporal Representation Learning
+
+Localised Adaptive Spatial-Temporal Graph Neural Network
+
+Maintaining the status quo-Capturing invariant relations for OOD spatiotemporal learning
+
+Pattern Expansion and Consolidation on Evolving Graphs for Continual Traffic Prediction
 
 DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection
 
@@ -411,6 +459,8 @@ Black-box Adversarial Attack on Time Series Classification
 
 
 ### WSDM 2023
+
+A Multi-graph Fusion Based Spatiotemporal Dynamic Learning Framework
 
 Telecommunication Traffic Forecasting via Multi-task Learning
 
