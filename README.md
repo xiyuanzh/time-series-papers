@@ -7,6 +7,7 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
 </p>
 
 - [2024](#2024)
+    - [ICLR 2024](#iclr-2024)    
     - [AAAI 2024](#aaai-2024)
     - [WSDM 2024](#wsdm-2024)
 - [2023](#2023)
@@ -52,6 +53,98 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
     - [WSDM 2021](#wsdm-2021)
 
 ## 2024
+
+### ICLR 2024
+
+Latent Trajectory Learning for Limited Timestamps under Distribution Shift over Time
+
+ClimODE: Climate Forecasting With Physics-informed Neural ODEs
+
+Soft Contrastive Learning for Time Series
+
+FITS: Modeling Time Series with 10k Parameters
+
+ModernTCN: A Modern Pure Convolution Structure for General Time Series Analysis
+
+iTransformer: Inverted Transformers Are Effective for Time Series Forecasting
+
+Inherently Interpretable Time Series Classification via Multiple Instance Learning
+
+Generative Learning for Financial Time Series with Irregular and Scale-Invariant Patterns
+
+Stable Neural Stochastic Differential Equations in Analyzing Irregular Time Series Data
+
+SocioDojo: Building Lifelong Analytical Agents with Real-world Text and Time Series
+
+Towards Transparent Time Series Forecasting
+
+Multi-Resolution Diffusion Models for Time Series Forecasting
+
+Diffusion-TS: Interpretable Diffusion for General Time Series Generation
+
+Explaining Time Series via Contrastive and Locally Sparse Perturbations
+
+Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting
+
+Copula Conformal prediction for multi-step time series prediction
+
+CausalTime: Realistically Generated Time-series for Benchmarking of Causal Discovery
+
+Interpretable Sparse System Identification: Beyond Recent Deep Learning Techniques on Time-Series Prediction
+
+Time-LLM: Time Series Forecasting by Reprogramming Large Language Models
+
+Learning to Embed Time Series Patches Independently
+
+TACTiS-2: Better, Faster, Simpler Attentional Copulas for Multivariate Time Series
+
+T-Rep: Representation Learning for Time Series using Time-Embeddings
+
+Parametric Augmentation for Time Series Contrastive Learning
+
+Conditional Information Bottleneck Approach for Time Series Imputation
+
+TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting
+
+TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series
+
+TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting
+
+CARD: Channel Aligned Robust Blend Transformer for Time Series Forecasting
+
+VQ-TR: Vector Quantized Attention for Time Series Forecasting
+
+Disentangling Time Series Representations via Contrastive based l-Variational Inference
+
+Retrieval-Based Reconstruction For Time-series Contrastive Learning
+
+RobustTSF: Towards Theory and Design of Robust Time Series Forecasting with Anomalies
+
+Transformer-Modulated Diffusion Models for Probabilistic Multivariate Time Series Forecasting
+
+Generative Modeling of Regular and Irregular Time Series Data via Koopman VAEs
+
+MG-TSD: Multi-Granularity Time Series Diffusion Models with Guided Learning Process
+
+Towards Enhancing Time Series Contrastive Learning: A Dynamic Bad Pair Mining Approach
+
+Rethinking Channel Dependence for Multivariate Time Series Forecasting: Learning from Leading Indicators
+
+STanHop: Sparse Tandem Hopfield Model for Memory-Enhanced Time Series Prediction
+
+Periodicity Decoupling Framework for Long-term Series Forecasting
+
+Biased Temporal Convolution Graph Network for Time Series Forecasting with Missing Values
+
+DAM: A Foundation Model for Forecasting
+
+Leveraging Generative Models for Unsupervised Alignment of Neural Time Series Data
+
+ARM: Refining Multivariate Forecasting with Adaptive Temporal-Contextual Learning
+
+Language Models Represent Space and Time
+
+Self-Supervised Contrastive Forecasting
 
 ### AAAI 2024
 
