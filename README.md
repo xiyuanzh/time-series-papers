@@ -541,6 +541,18 @@ FourierGNN: Rethinking Multivariate Time Series Forecasting from a Pure Graph Pe
 
 Finding Order in Chaos: A Novel Data Augmentation Method for Time Series in Contrastive Learning
 
+BioMassters: A Benchmark Dataset for Forest Biomass Estimation using Multi-modal Satellite Time-series
+
+SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling
+
+Encoding Time-Series Explanations through Self-Supervised Model Behavior Consistency
+
+FOCAL: Contrastive Learning for Multimodal Time-Series Sensing Signals in Factorized Orthogonal Latent Space
+
+On the Constrained Time-Series Generation Problem
+
+Contrast Everything: A Hierarchical Contrastive Framework for Medical Time-Series
+
 ### KDD 2023
 
 Generative Causal Interpretation Model for Spatio-Temporal Representation Learning
