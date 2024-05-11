@@ -123,6 +123,20 @@ $S^2$IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Fo
 
 Probabilistic time series modeling with decomposable denoising diffusion model
 
+MOMENT: A Family of Open Time-series Foundation Models
+
+TimeX++: Learning Time-Series Explanations with Information Bottleneck
+
+A decoder-only foundation model for time-series forecasting
+
+Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning
+
+Conformal prediction for multi-dimensional time-series
+
+TimeSiam: A Pre-Training Framework for Siamese Time-Series Modeling
+
+Efficient and Effective Time-Series Forecasting with Spiking Neural Networks
+
 ### IJCAI 2024
 
 Large Language Models for Time Series: A Survey
@@ -212,6 +226,8 @@ Extended Deep Adaptive Input Normalization for Preprocessing Time Series Data fo
 Mixture-of-Linear-Experts for Long-term Time Series Forecasting
 
 Unsupervised Change Point Detection in Multivariate Time Series
+
+Multi-resolution Time-Series Transformer for Long-term Forecasting
 
 Random Oscillators Network for Time Series Processing
 
