@@ -7,6 +7,11 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
 </p>
 
 - [2024](#2024)
+    - [ICML 2024](#icml-2024)
+    - [IJCAI 2024](#ijcai-2024)
+    - [WWW 2024](#www-2024)
+    - [SDM 2024](#sdm-2024)
+    - [AISTATS 2024](#aistats-2024)
     - [ICLR 2024](#iclr-2024)    
     - [AAAI 2024](#aaai-2024)
     - [WSDM 2024](#wsdm-2024)
@@ -53,6 +58,162 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
     - [WSDM 2021](#wsdm-2021)
 
 ## 2024
+
+### ICML 2024
+
+Multi-Patch Prediction: Adapting LLMs for Time Series Representation Learning
+
+Graph-based Time Series Clustering for End-to-End Hierarchical Forecasting
+
+MF-CLR: Multi-Frequency Contrastive Learning Representation for Time Series
+
+Transformers with Loss Shaping Constraints for Long-Term Time Series Forecasting
+
+CauDiTS: Causal Disentangled Domain Adaptation of Multivariate Time Series
+
+A Vector Quantization Pretraining Method for EEG Time Series with Random Projection and Phase Alignment
+
+SparseTSF: Modeling Long-term Time Series Forecasting with *1k* Parameters
+
+Learning Optimal Projection for Forecast Reconciliation of Hierarchical Time Series
+
+Revitalizing Multivariate Time Series Forecasting: Learnable Decomposition with Inter-Series Dependencies and Intra-Series Variations Modeling
+
+Bayesian Online Multivariate Time Series Imputation with Functional Decomposition
+
+CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables
+
+Position Paper: What Can Large Language Models Tell Us about Time Series Analysis
+
+Deep Functional Factor Models: Forecasting High-Dimensional Functional Time Series via Bayesian Nonparametric Factorization
+
+UP2ME: Univariate Pre-training to Multivariate Fine-tuning as a General-purpose Framework for Multivariate Time Series Analysis
+
+Position Paper: Quo Vadis, Unsupervised Time Series Anomaly Detection?
+
+Discovering Mixtures of Structural Causal Models from Time Series Data
+
+Unlocking the Potential of Transformers in Time Series Forecasting with Sharpness-Aware Minimization and Channel-Wise Attention
+
+An Analysis of Linear Time Series Forecasting Models
+
+TimeMIL: Advancing Multivariate Time Series Classification via a Time-aware Multiple Instance Learning
+
+TSLANet: Rethinking Transformers for Time Series Representation Learning
+
+An Empirical Examination of Balancing Strategy for Counterfactual Estimation on Time Series
+
+Timer: Transformers for Time Series at Scale
+
+Time Weaver: A Conditional Time Series Generation Model
+
+SIN: Selective and Interpretable Normalization for Long-Term Time Series Forecasting
+
+Unified Training of Universal Time Series Forecasting Transformers
+
+Time Series Diffusion in the Frequency Domain
+
+Reservoir Computing for Short High-Dimensional Time Series: an Application to SARS-CoV-2 Hospitalization Forecast
+
+Irregular Multivariate Time Series Forecasting: A Transformable Patching Graph Neural Networks Approach
+
+Learning Causal Relations from Subsampled Time Series with Two Time-Slices
+
+$S^2$IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting
+
+Probabilistic time series modeling with decomposable denoising diffusion model
+
+### IJCAI 2024
+
+Large Language Models for Time Series: A Survey
+
+Sub-Adjacent Transformer: Improving Time Series Anomaly Detection with Reconstruction Error from Sub-Adjacent Neighborhoods
+
+An NCDE-based Framework for Universal Representation Learning of Time Series
+
+Self-adaptive Extreme Penalized Loss for Imbalanced Time Series Prediction
+
+SDformer: Transformer with Spectral Filter and Dynamic Attention for Multivariate Time Series Long-term Forecasting
+
+Score-CDM: Score-Weighted Convolutional Diffusion Model for Multivariate Time Series Imputation
+
+SCAT: A Time Series Forecasting with Spectral Central Alternating Transformers
+
+Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection
+
+SaSDim:Self-Adaptive Noise Scaling Diffusion Model for Spatial Time Series Imputation
+
+Decoupled Invariant Attention Network for Multivariate Time-series Forecasting
+
+Denoising-Aware Contrastive Learning for Noisy Time Series
+
+Contrastive Learning Is Not Optimal for Quasiperiodic Time Series
+
+Deep Frequency Derivative Learning for Non-stationary Time Series Forecasting
+
+VCformer: Variable Correlation Transformer with Inherent Lagged Correlation for Multivariate Time Series Forecasting
+
+Skip-Timeformer: Skip-Time Interaction Transformer for Long Sequence Time-Series Forecasting
+
+Temporal Graph ODEs for Irregularly-Sampled Time Series
+
+LeRet: Language-Empowered Retentive Network for Time Series Forecasting
+
+Reconstructing Missing Variables for Multivariate Time Series Forecasting via Conditional Generative Flows
+
+SpecAR-Net: Spectrogram Analysis and Representation Network for Time Series
+
+Perturbation Guiding Contrastive Representation Learning for Time Series Anomaly Detection
+
+Disentangling Domain and General Representations for Time Series Classification
+
+### WWW 2024
+
+UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting
+
+Dynamic Multi-Network Mining of Tensor Time Series
+
+LARA: A Light and Anti-overfitting Retraining Approach for Unsupervised Time Series Anomaly Detection
+
+Breaking the Time-Frequency Granularity Discrepancy in Time-Series Anomaly Detection
+
+E2USD: Efficient-yet-effective Unsupervised State Detection for Multivariate Time Series
+
+Revisiting VAE for Unsupervised Time Series Anomaly Detection: A Frequency Perspective
+
+### SDM 2024
+
+Pupae: Intuitive and Actionable Explanations for Time Series Anomalies
+
+Pattern-Based Time Series Semantic Segmentation with Gradual State Transitions
+
+Towards Entity-Aware Conditional Variational Inference for Heterogeneous Time-Series Prediction: An Application to Hydrology
+
+EBV: Electronic Bee-Veterinarian for Principled Mining and Forecasting of Honeybee Time Series
+
+Time-Transformer: Integrating Local and Global Features for Better Time Series Generation
+
+Message Propagation Through Time: An Algorithm for Sequence Dependency Retention in Time Series Modeling
+
+Analysis of Causal and Non-Causal Convolution Networks for Time Series Classification
+
+### AISTATS 2024
+
+Better Batch for Deep Probabilistic Time Series Forecasting
+
+Fitting ARMA Time Series Models without Identification: A Proximal Approach
+
+Multivariate Time Series Forecasting By Graph Attention Networks With Theoretical Guarantees
+
+An Online Bootstrap for Time Series
+
+Extended Deep Adaptive Input Normalization for Preprocessing Time Series Data for Neural Networks
+
+Mixture-of-Linear-Experts for Long-term Time Series Forecasting
+
+Unsupervised Change Point Detection in Multivariate Time Series
+
+Random Oscillators Network for Time Series Processing
 
 ### ICLR 2024
 
