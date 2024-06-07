@@ -501,7 +501,7 @@ Causal Discovery from Subsampled Time Series with Proxy Variables
 
 Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting
 
-What if We Enrich day-ahead Solar Irradiance Time Series Forecasting with Spatio-Temporal Context?
+Improving Day-Ahead Solar Irradiance Time Series Forecasting by Leveraging Spatio-Temporal Context
 
 CrossGNN: Confronting Noisy Multivariate Time Series Via Cross Interaction Refinement
 
@@ -515,7 +515,7 @@ ContiFormer: Continuous-Time Transformer for Irregular Time Series Modeling
 
 Koopa: Learning Non-stationary Time Series Dynamics with Koopman Predictors
 
-Conformal Scorecasting: Anticipatory Uncertainty Quantification for Distribution Shift in Time Series
+Conformal PID Control for Time Series Prediction
 
 Drift doesn't Matter: Dynamic Decomposition with Diffusion Reconstruction for Unstable Multivariate Time Series Anomaly Detection
 
