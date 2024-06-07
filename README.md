@@ -513,7 +513,7 @@ ContiFormer: Continuous-Time Transformer for Irregular Time Series Modeling
 
 Koopa: Learning Non-stationary Time Series Dynamics with Koopman Predictors
 
-Conformal Scorecasting: Anticipatory Uncertainty Quantification for Distribution Shift in Time Series
+Conformal PID Control for Time Series Prediction
 
 Drift doesn't Matter: Dynamic Decomposition with Diffusion Reconstruction for Unstable Multivariate Time Series Anomaly Detection
 
