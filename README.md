@@ -365,6 +365,16 @@ SimPSI: A Simple Strategy to Preserve Spectral Information in Time Series Data A
 
 CGS-Mask: Making Time Series Predictions Intuitive for All
 
+Time-Aware Knowledge Representations of Dynamic Objects with Multidimensional Persistence
+
+Spatio-Temporal Pivotal Graph Neural Networks for Traffic Flow Forecasting
+
+Towards Dynamic Spatial-Temporal Graph Learning: A Decoupled Perspective
+
+ModWaveMLP: MLP-Based Mode Decomposition and Wavelet Denoising Model to Defeat Complex Structures in Traffic Forecasting
+
+Adaptive Meta-Learning Probabilistic Inference Framework for Long Sequence Prediction
+
 ### WSDM 2024
 
 Cross-modal Self-Supervised Learning for Time-series through Latent Masking
@@ -553,6 +563,16 @@ On the Constrained Time-Series Generation Problem
 
 Contrast Everything: A Hierarchical Contrastive Framework for Medical Time-Series
 
+ForecastPFN: Synthetically-Trained Zero-Shot Forecasting
+
+Neural Lad: A Neural Latent Dynamics Framework for Times Series Modeling
+
+Taming Local Effects in Graph-based Spatiotemporal Forecasting
+
+Deciphering Spatio-Temporal Graph Forecasting: A Causal Lens and Treatment
+
+GPT-ST: Generative Pre-Training of Spatio-Temporal Graph Neural Networks
+
 ### KDD 2023
 
 Generative Causal Interpretation Model for Spatio-Temporal Representation Learning
@@ -638,6 +658,8 @@ Sequential Predictive Conformal Inference for Time Series
 Regions of Reliability in the Evaluation of Multivariate Probabilistic Forecasts
 
 Regression with Sensor Data Containing Incomplete Observations
+
+Spatial-Temporal Graph Learning with Adversarial Contrastive Adaptation
 
 ### IJCAI 2023
 
